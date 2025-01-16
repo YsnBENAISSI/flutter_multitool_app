@@ -74,9 +74,8 @@ lib/
   ├── pages/
   │   ├── calculator.dart
       ├── WeatherApiCaller.dart
-  │   └── weather.dart
-  └── services/
-      └── api_caller.dart
+      └── weather.dart
+ 
 ```
 
 ## Contributing
